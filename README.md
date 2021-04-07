@@ -15,6 +15,8 @@ In order to achieve this we aim to
   - which converts the 7/12 extract (“Saath Baara Utara”) 
   - to an editable excel file.
 
+# Winning project of the [Code For Change Hackathon](https://github.com/JayJhaveri1906/Certificates/blob/main/hackathons/CodeForChange.jpg)
+
 ## Detailed Documentation in ppt
 [PPT](DOCS/401_Jay_Jhaveri_abstract.pptx)
 
@@ -74,4 +76,4 @@ python manage.py runserver
 
 > Run at `http://127.0.0.1:8000/OCR712/`
 
-# Winning project of the [Code For Change Hackathon](https://github.com/JayJhaveri1906/Certificates/blob/main/hackathons/CodeForChange.jpg)
+
