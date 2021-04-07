@@ -6,7 +6,7 @@
 
 
 # Hosted Link:
-http://caaca1b72e90.ngrok.io/OCR712/ [ please use the choose file button, hosting was causing issues with drag and drop :) ]
+http://caaca1b72e90.ngrok.io/OCR712/ [ please use the choose file button, hosting was causing issues with drag and drop :) ] (link is down)
 
 >This projectis aimed at helping the **Global Parli Foundation** in their mission to improve rural India through a replicable model of Rural Rejuvenation.
 
@@ -24,8 +24,8 @@ In order to achieve this we aim to
 ## Final Design
 ![](DOCS/homePage.png)
 
-### Temp download page(IN PROGRESS)
-![](DOCS/TempDownloadButtons.png)
+<!--### Temp download page(IN PROGRESS)
+![](DOCS/TempDownloadButtons.png)-->
 
 # Our Features!
 
@@ -43,8 +43,8 @@ In order to achieve this we aim to
  - No one in the market currently provide all these functionalities bundled together.
 
 
-# To be done by tommorow: 
- - working of the django download button on the final output screen.
+<!--# To be done by tommorow: 
+ - working of the django download button on the final output screen. -->
 
 
 # Basic Steps to Run the Code:
@@ -73,3 +73,5 @@ python manage.py runserver
 ```
 
 > Run at `http://127.0.0.1:8000/OCR712/`
+
+# Winning project of the [Code For Change Hackathon](https://github.com/JayJhaveri1906/Certificates/blob/main/hackathons/CodeForChange.jpg)
